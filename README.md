@@ -3,4 +3,4 @@
 This is core version desgin like WhatsApp
 
 
-<a href="https://imgflip.com/gif/3gt66a"><img src="https://i.imgflip.com/3gt66a.gif" title="made at imgflip.com"/></a>
+<p class="outfile"><img src="//im6.ezgif.com/tmp/ezgif-6-14091804eebf.gif" style="width:600px;height:1200px" alt="[video-to-gif output image]"></p>
